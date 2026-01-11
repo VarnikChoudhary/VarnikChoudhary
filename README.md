@@ -5,9 +5,7 @@ Hi, my name is Varnik Choudhary, and I am from Saharanpur, Uttar Pradesh. I have
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Varnik Choudhary)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nick.choudhary.108@gmail.com) 
 
 # 💻 Tech Stack:
