@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # 💫 About Me:
 Hi, my name is Varnik Choudhary, and I am from Saharanpur, Uttar Pradesh. I have completed my B.Tech in Computer Science Engineering from Tulas Institute, Dehradun.<br><br>I am passionate about creating dynamic and responsive web applications using HTML, CSS, JavaScript, React, Node.js, and Bootstrap. With a strong focus on both design and functionality, I enjoy building user-friendly web experiences that enhance digital interaction and deliver real value to users. 
